@@ -10,7 +10,7 @@ This project demonstrates various machine learning models for image classificati
     * `FeedForwardNeuralNetwork.py`: Feed-Forward Neural Network model.
     * `MnistClassifierInterface.py`: Abstract interface for MNIST classifiers.
     * `randomForest.py`: Random Forest classifier.
-* **`main.py`**: Entry point for running the demo. Loads and executes the models from `model_classes`.
+* **`main.py`**: Entry point for running the from console or IDE. Loads and executes the models from `model_classes`.
 
 
 ## Dependencies
